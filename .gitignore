@@ -32,7 +32,7 @@ ehthumbs.db
 .idea/
 
 # Dependency directories (e.g., if using Yarn or other tools)
-.pnp/
+.pnp/ 
 .pnp.js
 
 # Test coverage directory
